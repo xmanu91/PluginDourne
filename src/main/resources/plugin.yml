@@ -1,0 +1,9 @@
+name: PluginDourne
+version: ${project.version}
+main: fr.xmanu.dourne.Main
+authors: [ Xmanu91 ]
+description: Plugin for minecraft server Dourne
+
+commands:
+  spawn:
+    description: command for you tp on spawn
